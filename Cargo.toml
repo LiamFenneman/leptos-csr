@@ -14,3 +14,6 @@ leptos_meta = { version = "0.1.3", features = ["csr"] }
 leptos_router = { version = "0.1.3", features = ["csr"] }
 log = "0.4.17"
 wasm-bindgen = "0.2.84"
+
+[package.metadata.leptos]
+site-root = "."
