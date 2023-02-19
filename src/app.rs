@@ -8,6 +8,7 @@ pub fn App(cx: Scope) -> impl IntoView {
 
     view! {
         cx,
+        <Title text="Welcome to Leptos" />
         <Router>
             <Routes>
                 <Route path="" view=move |cx| view! { cx, <HomePage /> } />
