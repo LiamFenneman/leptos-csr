@@ -10,3 +10,10 @@
 ### Features
 - Minimal Leptos configuration
 - TailwindCSS pre-configured
+
+### Useful Links
+- [Leptos GitHub](https://github.com/leptos-rs/leptos)
+- [Leptos Docs](https://docs.rs/leptos/latest/leptos/)
+- [Trunk Homepage](https://trunkrs.dev)
+- [Trunk GitHub](https://github.com/thedodd/trunk)
+- [TailwindCSS Homepage](https://tailwindcss.com)
